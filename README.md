@@ -4,6 +4,8 @@
 Personal website: [Text] (https://muser853.github.io/)
 Fun fact: [I like doing simulation stuff a lot]    
 ![2 inch image] (https://github.com/Muser853/Muser853/blob/main/2inch.jpg)
+</italic>
+</bold>
 
 <!--
 
