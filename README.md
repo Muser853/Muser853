@@ -1,6 +1,12 @@
 ## Hi there 👋
+<<bold>>
+<<italic>>
+Personal website: [Text] (https://muser853.github.io/)
+Fun fact: [I like doing simulation stuff a lot]    
+![2 inch image] (2寸.jpg)
 
 <!--
+
 **Muser853/Muser853** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
