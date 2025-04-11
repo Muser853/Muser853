@@ -1,9 +1,9 @@
 ## Hi there 👋
-<<bold>>
-<<italic>>
+<bold>
+<italic>
 Personal website: [Text] (https://muser853.github.io/)
 Fun fact: [I like doing simulation stuff a lot]    
-![2 inch image] (2寸.jpg)
+![2 inch image] (2inch.jpg)
 
 <!--
 
