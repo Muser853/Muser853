@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on machine translation
 - 🤔 I’m looking for help with computing resources
 - 🌱 I’m currently learning Stateless and stateful Signatures and their applications in blockchain cryptography.
-- Nim < Rust < Zig < Mojo
+- Nim < C < Rust
 <!--Personal website: [Text] (https://muser853.github.io/)
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
